@@ -41,9 +41,6 @@ Pessoal esse aqui **[Portifolio]()**  você pode clicar para se baser e criar o 
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
   <a href="https://www.npmjs.com/~peterthehan">
     <img alt="npm" title="npm" height="48" width="48" src="https://cdn.simpleicons.org/npm"></a>
-</p>
-
-<p align="center">
   <a href="https://discord.gg/WjEFnzC">
     <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a>
   <a href="https://www.threads.net/@peterthehan">
