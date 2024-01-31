@@ -2,13 +2,16 @@
 
 # Hi there, I'm Joao Santos!
 
-I'm always studying programming and technology!
+Welcome to my GitHub profile! I'm passionate about programming and technology, always exploring new possibilities.
 
-Hey folks, this is my [Portfolio](), feel free to check it out for inspiration and guidance. I've also provided a [Tutorial]() to help you get started.
+## Portfolio & Tutorial
 
-## Technologies I use
+- Check out my [Portfolio]() for inspiration and guidance.
+- Follow my step-by-step [Tutorial]() to create your own.
 
-<div style="display: inline_block"><br>
+## Technologies I Use
+
+<div style="display: inline_block; margin-top: 20px;"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,23 +22,24 @@ Hey folks, this is my [Portfolio](), feel free to check it out for inspiration a
 </div>
 
 ## Recent Projects
+
 - [Tutorial]()
 - [Tutorial]()
 - [Tutorial]()
 
-## Social Media
+## Connect with Me
 
-<p align="center">
+<p align="center" style="margin-top: 20px;">
   <a href="https://github.com/peterthehan">
-    <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></a>
+    <img alt="GitHub" title="GitHub" height="40" width="40" src="https://cdn.simpleicons.org/github"></a>
   <a href="https://www.linkedin.com/in/peterthehan">
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
+    <img alt="LinkedIn" title="LinkedIn" height="40" width="40" src="https://cdn.simpleicons.org/linkedin"></a>
   <a href="https://www.npmjs.com/~peterthehan">
-    <img alt="npm" title="npm" height="48" width="48" src="https://cdn.simpleicons.org/npm"></a>
+    <img alt="npm" title="npm" height="40" width="40" src="https://cdn.simpleicons.org/npm"></a>
   <a href="https://discord.gg/WjEFnzC">
-    <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a>
+    <img alt="Discord" title="Discord" height="40" width="40" src="https://cdn.simpleicons.org/discord"></a>
   <a href="https://www.threads.net/@peterthehan">
-    <img alt="Threads" title="Threads" height="48" width="48" src="https://cdn.simpleicons.org/threads"></a>
+    <img alt="Threads" title="Threads" height="40" width="40" src="https://cdn.simpleicons.org/threads"></a>
   <a href="https://youtube.com/@peterthehan">
-    <img alt="YouTube" title="YouTube" height="48" width="48" src="https://cdn.simpleicons.org/youtube"></a>
+    <img alt="YouTube" title="YouTube" height="40" width="40" src="https://cdn.simpleicons.org/youtube"></a>
 </p>
