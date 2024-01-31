@@ -2,13 +2,14 @@
 
 ###
 
-[![Blog](https://img.shields.io/website?label=Portifolio&style=for-the-badge&url=https://joaosantoscodes.github.io/portifolio_web/)](https://joaosantoscodes.github.io/portifolio_web)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCT8zcIEJaNPUFVmoxLDwaZA)
-[![Facebook](https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white)](https://www.facebook.com/joaocarlosrh23)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaossantos_official)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-santos-5a59a567)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-santos-5a59a567)
-[![Discord](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaocarlosrh23@gmail.com)
+[![Blog](https://img.shields.io/website?label=Portifolio&style=for-the-badge&url=https://joaosantoscodes.github.io/portifolio_web/)](https://joaosantoscodes.github.io/portifolio_web){:target="_blank"}
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCT8zcIEJaNPUFVmoxLDwaZA){:target="_blank"}
+[![Facebook](https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white)](https://www.facebook.com/joaocarlosrh23){:target="_blank"}
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaossantos_official){:target="_blank"}
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-santos-5a59a567){:target="_blank"}
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-santos-5a59a567){:target="_blank"}
+[![Discord](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaocarlosrh23@gmail.com){:target="_blank"}
+
 
 ![JoaoSantosCodes GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoSantosCodes&show_icons=true&theme=dracula)
 
