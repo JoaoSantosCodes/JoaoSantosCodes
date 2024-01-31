@@ -32,7 +32,7 @@ Pessoal esse aqui **[Portifolio]()**  você pode clicar para se baser e criar o 
 
 **Social Media:**
 
-<p align="10px">
+<p align="20px">
   <a href="https://github.com/peterthehan">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
