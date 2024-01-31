@@ -1,4 +1,10 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
+<!-- GitHub Star link -->
+<p align="center">
+  <a href="https://stars.github.com/profiles/JoaoSantosCodes/">
+    <img src="https://github.com/DenverCoder1/JoaoSantosCodes/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
+</p>
   
 ## Oiii, eu sou a Joao Santos, sempre estudo sobre programação e tecnologia!
 
