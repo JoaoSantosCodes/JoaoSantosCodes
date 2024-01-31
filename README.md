@@ -32,10 +32,10 @@ Welcome to my GitHub profile! I'm passionate about programming and technology, a
 <p align="center" style="margin-top: 20px;">
   <a href="https://github.com/JoaoSantosCodes">
     <img alt="GitHub" title="GitHub" height="40" width="40" src="https://cdn.simpleicons.org/github"></a>
-  <a href="https://www.linkedin.com/in/peterthehan">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-santos-5a59a567/">
     <img alt="LinkedIn" title="LinkedIn" height="40" width="40" src="https://cdn.simpleicons.org/linkedin"></a>
-  <a href="https://discord.gg/WjEFnzC">
+  <a href="https://discord.gg/6JAwbTFy">
     <img alt="Discord" title="Discord" height="40" width="40" src="https://cdn.simpleicons.org/discord"></a>
-  <a href="https://youtube.com/@peterthehan">
+  <a href="https://www.youtube.com/channel/UCT8zcIEJaNPUFVmoxLDwaZA">
     <img alt="YouTube" title="YouTube" height="40" width="40" src="https://cdn.simpleicons.org/youtube"></a>
 </p>
