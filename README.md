@@ -32,10 +32,9 @@ Pessoal esse aqui **[Portifolio]()**  você pode clicar para se baser e criar o 
 
 **Social Media:**
 
-[![Drupal](icons/drupal.png)](https://www.drupal.org/u/hussainweb)
-[![GitHub](icons/github.png)](https://github.com/hussainweb)
-[![GitLab](icons/gitlab.png)](https://gitlab.com/hussainweb)
-[![YouTube](icons/youtube.png)](https://youtube.com/user/hussainweb)
-[![Twitter](icons/twitter.png)](https://twitter.com/hussainweb)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/hussainweb/)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/hussain.web/)
+[![GitHub](icons/github.png)]()
+[![GitLab](icons/gitlab.png)]()
+[![YouTube](icons/youtube.png)]()
+[![Twitter](icons/twitter.png)]()
+[![LinkedIn](icons/linkedin.png)]()
+[![Instagram](icons/instagram.png)]()
