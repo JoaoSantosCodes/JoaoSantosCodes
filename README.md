@@ -34,12 +34,8 @@ Welcome to my GitHub profile! I'm passionate about programming and technology, a
     <img alt="GitHub" title="GitHub" height="40" width="40" src="https://cdn.simpleicons.org/github"></a>
   <a href="https://www.linkedin.com/in/peterthehan">
     <img alt="LinkedIn" title="LinkedIn" height="40" width="40" src="https://cdn.simpleicons.org/linkedin"></a>
-  <a href="https://www.npmjs.com/~peterthehan">
-    <img alt="npm" title="npm" height="40" width="40" src="https://cdn.simpleicons.org/npm"></a>
   <a href="https://discord.gg/WjEFnzC">
     <img alt="Discord" title="Discord" height="40" width="40" src="https://cdn.simpleicons.org/discord"></a>
-  <a href="https://www.threads.net/@peterthehan">
-    <img alt="Threads" title="Threads" height="40" width="40" src="https://cdn.simpleicons.org/threads"></a>
   <a href="https://youtube.com/@peterthehan">
     <img alt="YouTube" title="YouTube" height="40" width="40" src="https://cdn.simpleicons.org/youtube"></a>
 </p>
