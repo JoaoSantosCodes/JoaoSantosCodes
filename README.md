@@ -2,6 +2,8 @@
 
 # Hi there, I'm Joao Santos!
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoSantosCodes&show_icons=true&theme=dracula)
+
 Welcome to my GitHub profile! I'm passionate about programming and technology, always exploring new possibilities.
 
 ## Portfolio & Tutorial
@@ -40,4 +42,3 @@ Welcome to my GitHub profile! I'm passionate about programming and technology, a
     <img alt="YouTube" title="YouTube" height="40" width="40" src="https://cdn.simpleicons.org/youtube"></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoSantosCodes&show_icons=true)
