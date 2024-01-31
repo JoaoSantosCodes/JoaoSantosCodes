@@ -30,12 +30,12 @@ Welcome to my GitHub profile! I'm passionate about programming and technology, a
 ## Connect with Me
 
 <p align="center" style="margin-top: 20px;">
-  <a href="https://github.com/JoaoSantosCodes">
-    <img alt="GitHub" title="GitHub" height="40" width="40" src="https://cdn.simpleicons.org/github">_back</a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-santos-5a59a567/">
+  <a href="https://github.com/JoaoSantosCodes" target="_blank">
+    <img alt="GitHub" title="GitHub" height="40" width="40" src="https://cdn.simpleicons.org/github"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-santos-5a59a567/" target="_blank">
     <img alt="LinkedIn" title="LinkedIn" height="40" width="40" src="https://cdn.simpleicons.org/linkedin"></a>
-  <a href="https://discord.gg/6JAwbTFy">
+  <a href="https://discord.gg/6JAwbTFy" target="_blank">
     <img alt="Discord" title="Discord" height="40" width="40" src="https://cdn.simpleicons.org/discord"></a>
-  <a href="https://www.youtube.com/channel/UCT8zcIEJaNPUFVmoxLDwaZA">
+  <a href="https://www.youtube.com/channel/UCT8zcIEJaNPUFVmoxLDwaZA" target="_blank">
     <img alt="YouTube" title="YouTube" height="40" width="40" src="https://cdn.simpleicons.org/youtube"></a>
 </p>
