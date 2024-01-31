@@ -35,4 +35,3 @@ Pessoal esse aqui **[Portifolio]()**  você pode clicar para se baser e criar o 
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
-<a href=""><img src="https://img.icons8.com/emoji/96/hugging-face.png" alt="huggingface"/></a>
