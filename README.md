@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm passionate about programming and technology, a
 ## Connect with Me
 
 <p align="center" style="margin-top: 20px;">
-  <a href="https://github.com/peterthehan">
+  <a href="https://github.com/JoaoSantosCodes">
     <img alt="GitHub" title="GitHub" height="40" width="40" src="https://cdn.simpleicons.org/github"></a>
   <a href="https://www.linkedin.com/in/peterthehan">
     <img alt="LinkedIn" title="LinkedIn" height="40" width="40" src="https://cdn.simpleicons.org/linkedin"></a>
