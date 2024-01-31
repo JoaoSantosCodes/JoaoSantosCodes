@@ -1,12 +1,12 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-# Oiii, eu sou a Joao Santos!
+# Hi there, I'm Joao Santos!
 
-Sempre estudo sobre programação e tecnologia!
+I'm always studying programming and technology!
 
-Pessoal, este é o [Portfólio]() que você pode visitar para se inspirar e criar o seu próprio. Vou deixar um [Tutorial]() passo a passo para vocês.
+Hey folks, this is my [Portfolio](), feel free to check it out for inspiration and guidance. I've also provided a [Tutorial]() to help you get started.
 
-## Tecnologias que eu uso
+## Technologies I use
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -18,7 +18,7 @@ Pessoal, este é o [Portfólio]() que você pode visitar para se inspirar e cria
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-## Projetos mais recentes
+## Recent Projects
 - [Tutorial]()
 - [Tutorial]()
 - [Tutorial]()
