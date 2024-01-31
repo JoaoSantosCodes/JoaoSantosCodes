@@ -1,9 +1,11 @@
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
 ## Oiii, eu sou a Joao Santos, sempre estudo sobre programação e tecnologia!
 
 Pessoal esse aqui **[Portifolio]()**  você pode clicar para se baser e criar o seu proprio, vou deixar um passo a passo de como fiz para voces. 
 ###  **[Tutorial]()** 
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
