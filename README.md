@@ -1,6 +1,9 @@
 ### Oiii eu sou a Joao Santos 🖐️
 
 ###
+<div style="display: inline_block"><br>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://octodex.github.com/images/inspectocat.jpg">
+</div>
 
 [![Blog](https://img.shields.io/website?label=Portifolio&style=for-the-badge&url=https://joaosantoscodes.github.io/portifolio_web/)](https://joaosantoscodes.github.io/portifolio_web)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCT8zcIEJaNPUFVmoxLDwaZA)
@@ -11,6 +14,7 @@
 [![Discord](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaocarlosrh23@gmail.com)
 
 ![JoaoSantosCodes GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoSantosCodes&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 ### Tecnologias que uso no meu dia
 
@@ -22,3 +26,11 @@
     <img align="center" alt="Rafa-HTML" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img align="center" alt="Rafa-HTML" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
+
+###
+Apaixonado po tecnologia, educação e por mudar a vida das pessoas através da programação.
+
+## Últimos Projetos: 
+- [--------------]()<br/>
+- [--------------]()<br/>
+- [--------------]()<br/>
