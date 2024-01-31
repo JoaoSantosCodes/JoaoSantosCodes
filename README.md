@@ -39,3 +39,5 @@ Welcome to my GitHub profile! I'm passionate about programming and technology, a
   <a href="https://www.youtube.com/channel/UCT8zcIEJaNPUFVmoxLDwaZA" target="_blank">
     <img alt="YouTube" title="YouTube" height="40" width="40" src="https://cdn.simpleicons.org/youtube"></a>
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoSantosCodes&show_icons=true)
