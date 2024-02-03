@@ -42,4 +42,4 @@ Welcome to my GitHub profile! I'm passionate about programming and technology, a
     <img alt="YouTube" title="YouTube" height="40" width="40" src="https://cdn.simpleicons.org/youtube"></a>
 </p>
 
-![Snake animation](https://github.com/JoaoSantosCodes/blob/output/github-contribution-grid-snake.svg)
+
