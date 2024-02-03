@@ -1,7 +1,7 @@
 <div>
-<img loading="lazy" height="180em" width="290" src="https://github-readme-stats.vercel.app/api?username=JoaoSantosCodes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="160em" width="290" src="https://github-readme-stats.vercel.app/api?username=JoaoSantosCodes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSantosCodes&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="160em" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSantosCodes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
