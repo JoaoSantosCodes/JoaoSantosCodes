@@ -41,3 +41,9 @@ Welcome to my GitHub profile! I'm passionate about programming and technology, a
   <a href="https://www.youtube.com/channel/UCT8zcIEJaNPUFVmoxLDwaZA" target="_blank">
     <img alt="YouTube" title="YouTube" height="40" width="40" src="https://cdn.simpleicons.org/youtube"></a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
