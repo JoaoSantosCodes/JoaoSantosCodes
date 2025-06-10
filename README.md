@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3AC&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Developer;Web+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3AC&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Developer;Web+Developer;Open+Source+Enthusiast;Problem+Solver;Team+Player" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -32,13 +32,17 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoSantosCodes&theme=dracula" alt="Most Commit Language" />
 </div>
 
-- 🔭 I'm currently working on a full-stack web application using React and Node.js
-- 🌱 I'm learning TypeScript and Next.js to enhance my development skills
-- 💬 Ask me about Web Development, JavaScript, React, and Node.js
-- 📫 How to reach me: joaosantos.dev@gmail.com
-- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSantosCodes&layout=donut&theme=dracula" alt="Top Languages" />
+</div>
 
-## 🛠️ Technologies & Tools
+- 🔭 Atualmente trabalhando em uma aplicação web full-stack usando React e Node.js
+- 🌱 Aprendendo TypeScript e Next.js para aprimorar minhas habilidades de desenvolvimento
+- 💬 Me pergunte sobre Desenvolvimento Web, JavaScript, React e Node.js
+- 📫 Como me encontrar: joaosantos.dev@gmail.com
+- ⚡ Fato curioso: Posso resolver um cubo mágico em menos de 2 minutos!
+
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -51,7 +55,16 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
-## 📂 Featured Projects
+<div align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</div>
+
+## 📂 Projetos em Destaque
 
 <div align="center">
   <a href="https://github.com/JoaoSantosCodes/ecommerce-platform">
@@ -62,65 +75,65 @@
   </a>
 </div>
 
-### Project Highlights
+### Destaques dos Projetos
 
 <details>
-<summary>E-commerce Platform</summary>
+<summary>Plataforma E-commerce</summary>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoSantosCodes&repo=ecommerce-platform&theme=dracula" />
 </div>
 <br>
-A full-stack e-commerce platform built with React, Node.js, and MongoDB. Features include:
-- User authentication
-- Product management
-- Shopping cart
-- Payment integration
-- Real-time inventory updates
-- Admin dashboard
-- Responsive design
+Uma plataforma completa de e-commerce construída com React, Node.js e MongoDB. Recursos incluem:
+- Autenticação de usuários
+- Gerenciamento de produtos
+- Carrinho de compras
+- Integração com pagamentos
+- Atualizações de estoque em tempo real
+- Painel administrativo
+- Design responsivo
 </details>
 
 <details>
-<summary>Task Management App</summary>
+<summary>Aplicativo de Gerenciamento de Tarefas</summary>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoSantosCodes&repo=task-manager&theme=dracula" />
 </div>
 <br>
-A responsive task management application with real-time updates, built using React and Firebase. Features include:
-- Task categorization
-- Priority levels
-- Deadline tracking
-- Real-time updates
-- Team collaboration
-- Progress tracking
-- Mobile-first design
+Um aplicativo responsivo de gerenciamento de tarefas com atualizações em tempo real, construído usando React e Firebase. Recursos incluem:
+- Categorização de tarefas
+- Níveis de prioridade
+- Acompanhamento de prazos
+- Atualizações em tempo real
+- Colaboração em equipe
+- Acompanhamento de progresso
+- Design mobile-first
 </details>
 
 <details>
-<summary>Weather Dashboard</summary>
+<summary>Dashboard do Tempo</summary>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoSantosCodes&repo=weather-dashboard&theme=dracula" />
 </div>
 <br>
-A weather dashboard that provides real-time weather information using OpenWeather API. Features include:
-- Real-time weather updates
-- 5-day forecast
-- Location-based weather
-- Responsive design
-- Weather alerts
-- Historical data
-- Interactive maps
+Um dashboard do tempo que fornece informações meteorológicas em tempo real usando a API OpenWeather. Recursos incluem:
+- Atualizações do tempo em tempo real
+- Previsão para 5 dias
+- Clima baseado em localização
+- Design responsivo
+- Alertas meteorológicos
+- Dados históricos
+- Mapas interativos
 </details>
 
-## 🏆 GitHub Trophies
+## 🏆 Troféus do GitHub
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JoaoSantosCodes&theme=dracula&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
-## 🤝 Connect with Me
+## 🤝 Conecte-se Comigo
 
 <div align="center">
   <a href="https://github.com/JoaoSantosCodes" target="_blank">
@@ -161,17 +174,17 @@ A weather dashboard that provides real-time weather information using OpenWeathe
   </a>
 </div>
 
-## 📈 Contribution Graph
+## 📈 Gráfico de Contribuições
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoSantosCodes&theme=dracula" alt="Contribution Graph" />
 </div>
 
-## 📊 Weekly Development Breakdown
+## 📊 Análise Semanal de Desenvolvimento
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JoaoSantosCodes&theme=dracula" alt="Weekly Development Breakdown" />
 </div>
 
-## 🎯 Goals for 2024
+## 🎯 Objetivos para 2024
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
@@ -179,11 +192,152 @@ A weather dashboard that provides real-time weather information using OpenWeathe
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </div>
 
-- [ ] Master TypeScript and Next.js
-- [ ] Contribute to 5 open source projects
-- [ ] Build 3 full-stack applications
-- [ ] Learn Docker and Kubernetes
-- [ ] Write 10 technical blog posts
+- [ ] Dominar TypeScript e Next.js
+- [ ] Contribuir para 5 projetos open source
+- [ ] Construir 3 aplicações full-stack
+- [ ] Aprender Docker e Kubernetes
+- [ ] Escrever 10 posts técnicos no blog
+
+## 🏆 Certificações & Conquistas
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript%20Algorithms%20and%20Data%20Structures-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Algorithms" />
+  <img src="https://img.shields.io/badge/Responsive%20Web%20Design-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Responsive Web Design" />
+  <img src="https://img.shields.io/badge/Front%20End%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Front End Development" />
+  <img src="https://img.shields.io/badge/Back%20End%20Development-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Back End Development" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Git%20&%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git & GitHub" />
+  <img src="https://img.shields.io/badge/Agile%20Methodology-6DB33F?style=for-the-badge&logo=scrum&logoColor=white" alt="Agile" />
+  <img src="https://img.shields.io/badge/UI/UX%20Design-FF6B6B?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design" />
+</div>
+
+## 📈 Linha do Tempo Profissional
+
+<details>
+<summary>2023 - Presente: Desenvolvedor Full Stack</summary>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-4EA94B?style=for-the-badge" alt="Full Stack Developer" />
+</div>
+- Desenvolvimento de aplicações web full-stack com React e Node.js
+- Implementação de APIs RESTful e GraphQL
+- Integração com serviços de cloud (AWS, Firebase)
+- Mentoria de desenvolvedores júnior
+- Otimização de performance e SEO
+</details>
+
+<details>
+<summary>2021 - 2023: Desenvolvedor Frontend</summary>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Frontend%20Developer-61DAFB?style=for-the-badge" alt="Frontend Developer" />
+</div>
+- Desenvolvimento de interfaces responsivas
+- Implementação de designs modernos
+- Integração com APIs
+- Otimização de performance
+- Trabalho com React e TypeScript
+</details>
+
+<details>
+<summary>2020 - 2021: Desenvolvedor Web</summary>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Web%20Developer-0078D4?style=for-the-badge" alt="Web Developer" />
+</div>
+- Desenvolvimento de sites responsivos
+- Implementação de layouts modernos
+- Trabalho com HTML, CSS e JavaScript
+- Otimização para SEO
+- Colaboração com designers
+</details>
+
+## 🎨 Hobbies & Interesses
+<div align="center">
+  <img src="https://img.shields.io/badge/Photography-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Photography" />
+  <img src="https://img.shields.io/badge/Gaming-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Gaming" />
+  <img src="https://img.shields.io/badge/Travel-000000?style=for-the-badge&logo=airplane&logoColor=white" alt="Travel" />
+  <img src="https://img.shields.io/badge/Cooking-000000?style=for-the-badge&logo=kitchen&logoColor=white" alt="Cooking" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Reading-000000?style=for-the-badge&logo=book&logoColor=white" alt="Reading" />
+  <img src="https://img.shields.io/badge/Music-000000?style=for-the-badge&logo=spotify&logoColor=white" alt="Music" />
+  <img src="https://img.shields.io/badge/Fitness-000000?style=for-the-badge&logo=fitness&logoColor=white" alt="Fitness" />
+  <img src="https://img.shields.io/badge/Coding-000000?style=for-the-badge&logo=code&logoColor=white" alt="Coding" />
+</div>
+
+## 🖼️ Galeria de Projetos
+
+<div align="center">
+  <a href="https://github.com/JoaoSantosCodes/ecommerce-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoSantosCodes&repo=ecommerce-platform&theme=dracula" />
+  </a>
+  <a href="https://github.com/JoaoSantosCodes/task-manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoSantosCodes&repo=task-manager&theme=dracula" />
+  </a>
+  <a href="https://github.com/JoaoSantosCodes/weather-dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoSantosCodes&repo=weather-dashboard&theme=dracula" />
+  </a>
+</div>
+
+<details>
+<summary>Projetos em Destaque</summary>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/E--commerce%20Platform-4EA94B?style=for-the-badge" alt="E-commerce Platform" />
+  <p>Plataforma completa de e-commerce com React, Node.js e MongoDB</p>
+  <img src="https://img.shields.io/badge/Task%20Manager-61DAFB?style=for-the-badge" alt="Task Manager" />
+  <p>Aplicativo de gerenciamento de tarefas com React e Firebase</p>
+  <img src="https://img.shields.io/badge/Weather%20Dashboard-0078D4?style=for-the-badge" alt="Weather Dashboard" />
+  <p>Dashboard de previsão do tempo com React e OpenWeather API</p>
+</div>
+</details>
+
+## 💬 Depoimentos
+
+<details>
+<summary>Depoimentos de Clientes</summary>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Client%20A-4EA94B?style=for-the-badge" alt="Client A" />
+  <p>"João desenvolveu uma plataforma de e-commerce excepcional que superou nossas expectativas. Sua atenção aos detalhes e expertise técnica foram impressionantes."</p>
+  
+  <img src="https://img.shields.io/badge/Client%20B-61DAFB?style=for-the-badge" alt="Client B" />
+  <p>"Trabalhar com João foi um prazer. Ele não apenas entregou um ótimo produto, mas também forneceu insights valiosos e sugestões de melhoria."</p>
+</div>
+</details>
+
+<details>
+<summary>Feedback da Equipe</summary>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Team%20Lead-0078D4?style=for-the-badge" alt="Team Lead" />
+  <p>"João é um excelente membro da equipe que consistentemente entrega código de alta qualidade e ajuda outros a crescerem."</p>
+  
+  <img src="https://img.shields.io/badge/Colleague-6DB33F?style=for-the-badge" alt="Colleague" />
+  <p>"Suas habilidades de resolução de problemas e conhecimento técnico o tornam um ativo valioso para qualquer equipe."</p>
+</div>
+</details>
+
+## 📚 Últimos Posts do Blog
+<div align="center">
+  <a href="https://dev.to/joaosantoscodes">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@joaosantos.dev/0" alt="Latest Medium Article" />
+  </a>
+</div>
+
+## 🎮 Seção Divertida
+<div align="center">
+  <img src="https://github.com/JoaoSantosCodes/JoaoSantosCodes/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Current%20Streak-0078D4?style=for-the-badge" alt="Current Streak" />
+  <img src="https://img.shields.io/badge/Longest%20Streak-4EA94B?style=for-the-badge" alt="Longest Streak" />
+  <img src="https://img.shields.io/badge/Total%20Contributions-61DAFB?style=for-the-badge" alt="Total Contributions" />
+</div>
 
 ---
 <div align="center">
@@ -197,7 +351,7 @@ A weather dashboard that provides real-time weather information using OpenWeathe
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=35&animation=twinkling" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Obrigado%20pela%20visita!&fontSize=40&fontAlignY=35&animation=twinkling" alt="Footer" />
 </div>
 
 ⭐️ From [JoaoSantosCodes](https://github.com/JoaoSantosCodes)
