@@ -6,9 +6,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3AC&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Developer;Web+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoSantosCodes&theme=dracula" alt="Profile Details" />
+</div>
+
 Welcome to my GitHub profile! I'm a passionate developer focused on web development and creating innovative solutions. I love exploring new technologies and building projects that make a difference.
 
 ## 🚀 About Me
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoSantosCodes&theme=dracula" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoSantosCodes&theme=dracula" alt="Most Commit Language" />
+</div>
 
 - 🔭 I'm currently working on a full-stack web application using React and Node.js
 - 🌱 I'm learning TypeScript and Next.js to enhance my development skills
@@ -58,31 +67,52 @@ Welcome to my GitHub profile! I'm a passionate developer focused on web developm
 <details>
 <summary>E-commerce Platform</summary>
 <br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoSantosCodes&repo=ecommerce-platform&theme=dracula" />
+</div>
+<br>
 A full-stack e-commerce platform built with React, Node.js, and MongoDB. Features include:
 - User authentication
 - Product management
 - Shopping cart
 - Payment integration
+- Real-time inventory updates
+- Admin dashboard
+- Responsive design
 </details>
 
 <details>
 <summary>Task Management App</summary>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoSantosCodes&repo=task-manager&theme=dracula" />
+</div>
 <br>
 A responsive task management application with real-time updates, built using React and Firebase. Features include:
 - Task categorization
 - Priority levels
 - Deadline tracking
 - Real-time updates
+- Team collaboration
+- Progress tracking
+- Mobile-first design
 </details>
 
 <details>
 <summary>Weather Dashboard</summary>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoSantosCodes&repo=weather-dashboard&theme=dracula" />
+</div>
 <br>
 A weather dashboard that provides real-time weather information using OpenWeather API. Features include:
 - Real-time weather updates
 - 5-day forecast
 - Location-based weather
 - Responsive design
+- Weather alerts
+- Historical data
+- Interactive maps
 </details>
 
 ## 🏆 GitHub Trophies
@@ -108,10 +138,20 @@ A weather dashboard that provides real-time weather information using OpenWeathe
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoSantosCodes&theme=dracula" alt="Contribution Graph" />
 </div>
 
+## 📊 Weekly Development Breakdown
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JoaoSantosCodes&theme=dracula" alt="Weekly Development Breakdown" />
+</div>
+
 ---
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=JoaoSantosCodes&color=blueviolet" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/JoaoSantosCodes?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/JoaoSantosCodes?label=Stars&style=social" alt="GitHub Stars" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JoaoSantosCodes&theme=dracula&margin-w=15&margin-h=15&row=1" alt="GitHub Trophies" />
 </div>
 
 ⭐️ From [JoaoSantosCodes](https://github.com/JoaoSantosCodes)
