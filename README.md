@@ -128,129 +128,160 @@ Um dashboard do tempo que fornece informações meteorológicas em tempo real us
 - Mapas interativos
 </details>
 
-## 🏆 Troféus do GitHub
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoaoSantosCodes&theme=dracula&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-## 🤝 Conecte-se Comigo
+## 🎯 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/JoaoSantosCodes" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-santos-5a59a567/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.gg/6JAwbTFy" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCT8zcIEJaNPUFVmoxLDwaZA" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoSantosCodes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSantosCodes&layout=donut&theme=dracula" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <a href="mailto:joaosantos.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://twitter.com/JoaoSantosCodes" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://dev.to/joaosantoscodes" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-  </a>
-  <a href="https://medium.com/@joaosantos.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoSantosCodes&theme=dracula" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/joaosantos" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-  <a href="https://ko-fi.com/joaosantos" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoSantosCodes&theme=dracula" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoSantosCodes&theme=dracula" alt="Most Commit Language" />
 </div>
 
-## 📈 Gráfico de Contribuições
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoSantosCodes&theme=dracula" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSantosCodes&layout=donut&theme=dracula" alt="Top Languages" />
 </div>
 
-## 📊 Análise Semanal de Desenvolvimento
+## 📊 Análise de Código
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JoaoSantosCodes&theme=dracula" alt="Weekly Development Breakdown" />
 </div>
 
-## 🎯 Objetivos para 2024
 <div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoSantosCodes&theme=dracula" alt="Contribution Graph" />
 </div>
 
-- [ ] Dominar TypeScript e Next.js
-- [ ] Contribuir para 5 projetos open source
-- [ ] Construir 3 aplicações full-stack
-- [ ] Aprender Docker e Kubernetes
-- [ ] Escrever 10 posts técnicos no blog
+## 🎮 Jogos do GitHub
 
-## 🏆 Certificações & Conquistas
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript%20Algorithms%20and%20Data%20Structures-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Algorithms" />
-  <img src="https://img.shields.io/badge/Responsive%20Web%20Design-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Responsive Web Design" />
-  <img src="https://img.shields.io/badge/Front%20End%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Front End Development" />
-  <img src="https://img.shields.io/badge/Back%20End%20Development-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Back End Development" />
+  <img src="https://github.com/JoaoSantosCodes/JoaoSantosCodes/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Git%20&%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git & GitHub" />
-  <img src="https://img.shields.io/badge/Agile%20Methodology-6DB33F?style=for-the-badge&logo=scrum&logoColor=white" alt="Agile" />
-  <img src="https://img.shields.io/badge/UI/UX%20Design-FF6B6B?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design" />
+  <img src="https://github.com/JoaoSantosCodes/JoaoSantosCodes/blob/output/github-contribution-grid-snake-game.svg" alt="Snake Game Light" />
 </div>
 
-## 📈 Linha do Tempo Profissional
+## 📈 Métricas de Desenvolvimento
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Commits%20Today-0078D4?style=for-the-badge" alt="Commits Today" />
+  <img src="https://img.shields.io/badge/PRs%20Merged-4EA94B?style=for-the-badge" alt="PRs Merged" />
+  <img src="https://img.shields.io/badge/Issues%20Closed-61DAFB?style=for-the-badge" alt="Issues Closed" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Current%20Streak-0078D4?style=for-the-badge" alt="Current Streak" />
+  <img src="https://img.shields.io/badge/Longest%20Streak-4EA94B?style=for-the-badge" alt="Longest Streak" />
+  <img src="https://img.shields.io/badge/Total%20Contributions-61DAFB?style=for-the-badge" alt="Total Contributions" />
+</div>
+
+## 🎯 Objetivos Diários
 
 <details>
-<summary>2023 - Presente: Desenvolvedor Full Stack</summary>
+<summary>Objetivos de Desenvolvimento</summary>
 <br>
 <div align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-4EA94B?style=for-the-badge" alt="Full Stack Developer" />
+  <img src="https://img.shields.io/badge/Commits-0078D4?style=for-the-badge" alt="Commits" />
+  <p>Meta: 5 commits por dia</p>
+  <img src="https://img.shields.io/badge/PRs-4EA94B?style=for-the-badge" alt="PRs" />
+  <p>Meta: 2 PRs por semana</p>
+  <img src="https://img.shields.io/badge/Issues-61DAFB?style=for-the-badge" alt="Issues" />
+  <p>Meta: 3 issues resolvidas por semana</p>
 </div>
-- Desenvolvimento de aplicações web full-stack com React e Node.js
-- Implementação de APIs RESTful e GraphQL
-- Integração com serviços de cloud (AWS, Firebase)
-- Mentoria de desenvolvedores júnior
-- Otimização de performance e SEO
+</details>
+
+## 📚 Recursos de Aprendizado
+
+<details>
+<summary>Livros Recomendados</summary>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Clean%20Code-0078D4?style=for-the-badge" alt="Clean Code" />
+  <p>Robert C. Martin</p>
+  <img src="https://img.shields.io/badge/Design%20Patterns-4EA94B?style=for-the-badge" alt="Design Patterns" />
+  <p>Gang of Four</p>
+  <img src="https://img.shields.io/badge/JavaScript%20Patterns-61DAFB?style=for-the-badge" alt="JavaScript Patterns" />
+  <p>Stoyan Stefanov</p>
+</div>
 </details>
 
 <details>
-<summary>2021 - 2023: Desenvolvedor Frontend</summary>
+<summary>Cursos Online</summary>
 <br>
 <div align="center">
-  <img src="https://img.shields.io/badge/Frontend%20Developer-61DAFB?style=for-the-badge" alt="Frontend Developer" />
+  <img src="https://img.shields.io/badge/Udemy-0078D4?style=for-the-badge" alt="Udemy" />
+  <p>Advanced React Patterns</p>
+  <img src="https://img.shields.io/badge/Coursera-4EA94B?style=for-the-badge" alt="Coursera" />
+  <p>Machine Learning for Web Devs</p>
+  <img src="https://img.shields.io/badge/Pluralsight-61DAFB?style=for-the-badge" alt="Pluralsight" />
+  <p>Advanced TypeScript</p>
 </div>
-- Desenvolvimento de interfaces responsivas
-- Implementação de designs modernos
-- Integração com APIs
-- Otimização de performance
-- Trabalho com React e TypeScript
+</details>
+
+## 🎨 Ferramentas de Desenvolvimento
+
+<details>
+<summary>IDEs e Editores</summary>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/WebStorm-4EA94B?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm" />
+  <img src="https://img.shields.io/badge/Sublime%20Text-61DAFB?style=for-the-badge&logo=sublime-text&logoColor=white" alt="Sublime Text" />
+</div>
 </details>
 
 <details>
-<summary>2020 - 2021: Desenvolvedor Web</summary>
+<summary>Ferramentas de Produtividade</summary>
 <br>
 <div align="center">
-  <img src="https://img.shields.io/badge/Web%20Developer-0078D4?style=for-the-badge" alt="Web Developer" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/Trello-0078D4?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+  <img src="https://img.shields.io/badge/Slack-4EA94B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
 </div>
-- Desenvolvimento de sites responsivos
-- Implementação de layouts modernos
-- Trabalho com HTML, CSS e JavaScript
-- Otimização para SEO
-- Colaboração com designers
+</details>
+
+## 🎵 Playlist de Coding
+
+<details>
+<summary>Músicas para Programar</summary>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  <p>Lo-fi Coding Beats</p>
+  <img src="https://img.shields.io/badge/YouTube%20Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YouTube Music" />
+  <p>Focus Music Playlist</p>
+</div>
+</details>
+
+## 🎮 Hobbies em Detalhes
+
+<details>
+<summary>Jogos Favoritos</summary>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+  <p>The Witcher 3, Cyberpunk 2077</p>
+  <img src="https://img.shields.io/badge/Epic%20Games-000000?style=for-the-badge&logo=epic-games&logoColor=white" alt="Epic Games" />
+  <p>Fortnite, Rocket League</p>
+</div>
+</details>
+
+<details>
+<summary>Fotografia</summary>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <p>@joaosantos.photo</p>
+  <img src="https://img.shields.io/badge/500px-000000?style=for-the-badge&logo=500px&logoColor=white" alt="500px" />
+  <p>Landscape Photography</p>
+</div>
 </details>
 
 ## 🎨 Hobbies & Interesses
@@ -355,3 +386,150 @@ Um dashboard do tempo que fornece informações meteorológicas em tempo real us
 </div>
 
 ⭐️ From [JoaoSantosCodes](https://github.com/JoaoSantosCodes)
+
+## 🎯 Objetivos para 2024
+
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</div>
+
+- [ ] Dominar TypeScript e Next.js
+- [ ] Contribuir para 5 projetos open source
+- [ ] Construir 3 aplicações full-stack
+- [ ] Aprender Docker e Kubernetes
+- [ ] Escrever 10 posts técnicos no blog
+
+## 🏆 Certificações & Conquistas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript%20Algorithms%20and%20Data%20Structures-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Algorithms" />
+  <img src="https://img.shields.io/badge/Responsive%20Web%20Design-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Responsive Web Design" />
+  <img src="https://img.shields.io/badge/Front%20End%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Front End Development" />
+  <img src="https://img.shields.io/badge/Back%20End%20Development-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Back End Development" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Git%20&%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git & GitHub" />
+  <img src="https://img.shields.io/badge/Agile%20Methodology-6DB33F?style=for-the-badge&logo=scrum&logoColor=white" alt="Agile" />
+  <img src="https://img.shields.io/badge/UI/UX%20Design-FF6B6B?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design" />
+</div>
+
+## 📈 Linha do Tempo Profissional
+
+<details>
+<summary>2023 - Presente: Desenvolvedor Full Stack</summary>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-4EA94B?style=for-the-badge" alt="Full Stack Developer" />
+</div>
+- Desenvolvimento de aplicações web full-stack com React e Node.js
+- Implementação de APIs RESTful e GraphQL
+- Integração com serviços de cloud (AWS, Firebase)
+- Mentoria de desenvolvedores júnior
+- Otimização de performance e SEO
+</details>
+
+<details>
+<summary>2021 - 2023: Desenvolvedor Frontend</summary>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Frontend%20Developer-61DAFB?style=for-the-badge" alt="Frontend Developer" />
+</div>
+- Desenvolvimento de interfaces responsivas
+- Implementação de designs modernos
+- Integração com APIs
+- Otimização de performance
+- Trabalho com React e TypeScript
+</details>
+
+<details>
+<summary>2020 - 2021: Desenvolvedor Web</summary>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Web%20Developer-0078D4?style=for-the-badge" alt="Web Developer" />
+</div>
+- Desenvolvimento de sites responsivos
+- Implementação de layouts modernos
+- Trabalho com HTML, CSS e JavaScript
+- Otimização para SEO
+- Colaboração com designers
+</details>
+
+## 🤝 Conecte-se Comigo
+
+<div align="center">
+  <a href="https://github.com/JoaoSantosCodes" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-santos-5a59a567/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.gg/6JAwbTFy" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCT8zcIEJaNPUFVmoxLDwaZA" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="mailto:joaosantos.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://twitter.com/JoaoSantosCodes" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://dev.to/joaosantoscodes" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="https://medium.com/@joaosantos.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/joaosantos" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+  <a href="https://ko-fi.com/joaosantos" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+  </a>
+</div>
+
+## ❓ FAQ (Perguntas Frequentes)
+
+<details>
+<summary><b>Quais tecnologias você mais gosta de usar?</b></summary>
+React, Node.js, TypeScript e Next.js são minhas favoritas para desenvolvimento web moderno.
+</details>
+
+<details>
+<summary><b>Você está disponível para freelance ou contratação?</b></summary>
+Sim! Estou aberto a oportunidades de freelance e contratação. Entre em contato pelo LinkedIn ou e-mail.
+</details>
+
+<details>
+<summary><b>Você aceita colaboração em projetos open source?</b></summary>
+Sim! Adoro colaborar em projetos open source e compartilhar conhecimento com a comunidade.
+</details>
+
+## 📢 Disponível para Freelance/Contratação
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Disponível%20para-Freelance%2FContrata%C3%A7%C3%A3o-4EA94B?style=for-the-badge&logo=freelancer&logoColor=white" alt="Disponível para Freelance" />
+</div>
+
+## 🎲 Fun Fact do Dia
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230d1117&qColor=%23fff" alt="Joke" />
+</div>
+
+## 🤝 Open for Collaboration
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Open%20for%20Collaboration-0078D4?style=for-the-badge&logo=github&logoColor=white" alt="Open for Collaboration" />
+</div>
