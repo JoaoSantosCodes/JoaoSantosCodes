@@ -4,12 +4,15 @@
 
 Welcome to my GitHub profile! I'm a passionate developer focused on web development and creating innovative solutions. I love exploring new technologies and building projects that make a difference.
 
-## Portfolio & Tutorial
+## 🚀 About Me
 
-- Check out my [Portfolio](https://joaosantoscodes.github.io) for inspiration and guidance.
-- Follow my step-by-step [Tutorial](https://github.com/JoaoSantosCodes/tutorial) to create your own.
+- 🔭 I'm currently working on [Your Current Project]
+- 🌱 I'm learning [New Technology/Skill]
+- 💬 Ask me about Web Development, JavaScript, and React
+- 📫 How to reach me: [Your Email]
+- ⚡ Fun fact: [Something interesting about you]
 
-## Technologies I Use
+## 🛠️ Technologies & Tools
 
 <div style="display: inline_block; margin-top: 20px;"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -18,15 +21,33 @@ Welcome to my GitHub profile! I'm a passionate developer focused on web developm
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
 
-## Recent Projects
+## 📂 Featured Projects
 
-- [Project 1](https://github.com/JoaoSantosCodes/project1) - Description of your first project
-- [Project 2](https://github.com/JoaoSantosCodes/project2) - Description of your second project
-- [Project 3](https://github.com/JoaoSantosCodes/project3) - Description of your third project
+### [Project 1](https://github.com/JoaoSantosCodes/project1)
+Description of your first project with key features and technologies used.
 
-## Connect with Me
+### [Project 2](https://github.com/JoaoSantosCodes/project2)
+Description of your second project with key features and technologies used.
+
+### [Project 3](https://github.com/JoaoSantosCodes/project3)
+Description of your third project with key features and technologies used.
+
+## 📊 GitHub Stats
+
+<div>
+<img loading="lazy" height="160" width="290" src="https://github-readme-stats.vercel.app/api?username=JoaoSantosCodes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/JoaoSantosCodes">
+<img loading="lazy" height="160" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSantosCodes&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=JoaoSantosCodes&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🤝 Connect with Me
 
 <p align="center" style="margin-top: 20px;">
   <a href="https://github.com/JoaoSantosCodes" target="_blank">
@@ -39,8 +60,5 @@ Welcome to my GitHub profile! I'm a passionate developer focused on web developm
     <img alt="YouTube" title="YouTube" height="40" width="40" src="https://cdn.simpleicons.org/youtube"></a>
 </p>
 
-<div>
-<img loading="lazy" height="160" width="290" src="https://github-readme-stats.vercel.app/api?username=JoaoSantosCodes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<a href="https://github.com/JoaoSantosCodes">
-<img loading="lazy" height="160" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSantosCodes&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+---
+⭐️ From [JoaoSantosCodes](https://github.com/JoaoSantosCodes)
