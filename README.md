@@ -1,6 +1,8 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-# Hi there, I'm Joao Santos! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Joao%20Santos&fontSize=80&fontAlignY=35&animation=twinkling" alt="Header" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3AC&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Developer;Web+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
@@ -10,6 +12,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoSantosCodes&theme=dracula" alt="Profile Details" />
 </div>
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
+</div>
+
 Welcome to my GitHub profile! I'm a passionate developer focused on web development and creating innovative solutions. I love exploring new technologies and building projects that make a difference.
 
 ## 🚀 About Me
@@ -17,6 +23,10 @@ Welcome to my GitHub profile! I'm a passionate developer focused on web developm
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoSantosCodes&theme=dracula" alt="Repos Per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoSantosCodes&theme=dracula" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSantosCodes&layout=donut&theme=dracula" alt="Top Languages" />
 </div>
 
 - 🔭 I'm currently working on a full-stack web application using React and Node.js
@@ -143,6 +153,13 @@ A weather dashboard that provides real-time weather information using OpenWeathe
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JoaoSantosCodes&theme=dracula" alt="Weekly Development Breakdown" />
 </div>
 
+## 🎯 Goals for 2024
+- [ ] Master TypeScript and Next.js
+- [ ] Contribute to 5 open source projects
+- [ ] Build 3 full-stack applications
+- [ ] Learn Docker and Kubernetes
+- [ ] Write 10 technical blog posts
+
 ---
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=JoaoSantosCodes&color=blueviolet" alt="Profile Views" />
@@ -152,6 +169,10 @@ A weather dashboard that provides real-time weather information using OpenWeathe
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JoaoSantosCodes&theme=dracula&margin-w=15&margin-h=15&row=1" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=35&animation=twinkling" alt="Footer" />
 </div>
 
 ⭐️ From [JoaoSantosCodes](https://github.com/JoaoSantosCodes)
