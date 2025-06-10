@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer focused on web developm
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on [Your Current Project]
-- 🌱 I'm learning [New Technology/Skill]
-- 💬 Ask me about Web Development, JavaScript, and React
-- 📫 How to reach me: [Your Email]
-- ⚡ Fun fact: [Something interesting about you]
+- 🔭 I'm currently working on a full-stack web application using React and Node.js
+- 🌱 I'm learning TypeScript and Next.js to enhance my development skills
+- 💬 Ask me about Web Development, JavaScript, React, and Node.js
+- 📫 How to reach me: joaosantos.dev@gmail.com
+- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 
 ## 🛠️ Technologies & Tools
 
@@ -23,18 +23,20 @@ Welcome to my GitHub profile! I'm a passionate developer focused on web developm
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
 ## 📂 Featured Projects
 
-### [Project 1](https://github.com/JoaoSantosCodes/project1)
-Description of your first project with key features and technologies used.
+### [E-commerce Platform](https://github.com/JoaoSantosCodes/ecommerce-platform)
+A full-stack e-commerce platform built with React, Node.js, and MongoDB. Features include user authentication, product management, shopping cart, and payment integration.
 
-### [Project 2](https://github.com/JoaoSantosCodes/project2)
-Description of your second project with key features and technologies used.
+### [Task Management App](https://github.com/JoaoSantosCodes/task-manager)
+A responsive task management application with real-time updates, built using React and Firebase. Includes features like task categorization, priority levels, and deadline tracking.
 
-### [Project 3](https://github.com/JoaoSantosCodes/project3)
-Description of your third project with key features and technologies used.
+### [Weather Dashboard](https://github.com/JoaoSantosCodes/weather-dashboard)
+A weather dashboard that provides real-time weather information using OpenWeather API. Built with React and styled with Tailwind CSS.
 
 ## 📊 GitHub Stats
 
